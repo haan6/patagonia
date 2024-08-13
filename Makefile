@@ -3,7 +3,7 @@
 # Directories
 SRC_DIR = src
 BUILD_DIR = build
-INSTALL_DIR = doc
+INSTALL_DIR = demo
 
 # Find all .sty files in the src directory
 STY_FILES = $(wildcard $(SRC_DIR)/*.sty)
